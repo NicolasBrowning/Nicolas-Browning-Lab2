@@ -1,0 +1,18 @@
+C:\Users\nicbi\OneDrive\Documents\PG2\personnal\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\inputFile.csv
+C:\Users\nicbi\OneDrive\Documents\PG2\personnal\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\Browning,Nicolas-Lab2.exe.config
+C:\Users\nicbi\OneDrive\Documents\PG2\personnal\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\Browning,Nicolas-Lab2.exe
+C:\Users\nicbi\OneDrive\Documents\PG2\personnal\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\Browning,Nicolas-Lab2.pdb
+C:\Users\nicbi\OneDrive\Documents\PG2\personnal\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\obj\Debug\Browning,Nicolas-Lab2.csproj.AssemblyReference.cache
+C:\Users\nicbi\OneDrive\Documents\PG2\personnal\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\obj\Debug\Browning,Nicolas-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\nicbi\OneDrive\Documents\PG2\personnal\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\obj\Debug\Browning,Nicolas-Lab2.exe
+C:\Users\nicbi\OneDrive\Documents\PG2\personnal\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\obj\Debug\Browning,Nicolas-Lab2.pdb
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\inputFile.csv
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\Browning,Nicolas-Lab2.exe.config
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\Browning,Nicolas-Lab2.exe
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\Browning,Nicolas-Lab2.pdb
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\obj\Debug\Browning,Nicolas-Lab2.csproj.AssemblyReference.cache
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\obj\Debug\Browning,Nicolas-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\obj\Debug\Browning,Nicolas-Lab2.exe
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\obj\Debug\Browning,Nicolas-Lab2.pdb
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicbi\OneDrive\Documents\PG2\Lab 2 master\Browning,Nicolas-Lab2\Browning,Nicolas-Lab2\bin\Debug\Newtonsoft.Json.xml
